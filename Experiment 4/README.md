@@ -19,8 +19,8 @@ The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges 
 10. Guarantees finding the optimal policy, making it useful in reinforcement learning applications.
 
 ## VALUE ITERATION FUNCTION
-#### Name: Thiyagarajan A
-#### Register Number: 212222240110
+#### Name: Yuvaraj S
+#### Register Number: 212222240119
 ```
 envdesc = [
     "SFFF",
