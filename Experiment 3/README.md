@@ -23,8 +23,8 @@ Step 6 : Check if the policy has converged by comparing the previous policy old_
 Step 7 : Return the final state-values V and the optimal policy pi.
 
 ## POLICY IMPROVEMENT FUNCTION
-#### Name : Thiyagarajan A
-#### Register Number : 212222240110
+#### Name : Yuvaraj S
+#### Register Number : 212222240119
 ```python
 def policy_improvement(V, P, gamma=1.0):
     Q = np.zeros((len(P), len(P[0])), dtype=np.float64)
@@ -38,8 +38,8 @@ def policy_improvement(V, P, gamma=1.0):
     return new_pi
 ```
 ## POLICY ITERATION FUNCTION
-#### Name : Thiyagarajan A
-#### Register Number : 212222240110
+#### Name : Yuvaraj S
+#### Register Number : 212222240119
 ```python
 def policy_iteration(P, gamma=1.0,theta=1e-10):
   random_actions=np.random.choice(tuple(P[0].keys()),len(P))
@@ -56,28 +56,28 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
 ## OUTPUT:
 ### 1. Policy, Value function and success rate for the Adversarial Policy
 
-![image](https://github.com/user-attachments/assets/2be9ea72-3110-4a04-a515-682264208a44)
-![image](https://github.com/user-attachments/assets/4a8f58b0-115c-4f51-92c6-b2d3fd1c4307)
+![image](./Output/1.png)
+![image](./Output/2.png)
 
-![image](https://github.com/user-attachments/assets/6f1ab473-c718-4686-9d15-efe58474bad2)
+![image](./Output/3.png)
 
 
 
 ### 2. Policy, Value function and success rate for the Improved Policy
 
-![image](https://github.com/user-attachments/assets/cf318125-8c1e-4b4a-9ba3-dfd019107234)
-![image](https://github.com/user-attachments/assets/1e983d0b-2887-4dd9-af13-67b61b90259d)
+![image](./Output/4.png)
+![image](./Output/5.png)
 
-![image](https://github.com/user-attachments/assets/09176a34-4775-457e-a885-82467e7d4e49)
-![image](https://github.com/user-attachments/assets/cde82ae4-d909-45b3-9ea2-5fe4350368a8)
+![image](./Output/6.png)
+![image](./Output/7.png)
 
 
 
 ### 3. Policy, Value function and success rate after policy iteration
-![image](https://github.com/user-attachments/assets/bf439fa2-f589-45c3-94c0-9e0f5c25317b)
-![image](https://github.com/user-attachments/assets/04726ddc-922f-4014-b78e-78c34f11e3ba)
+![image](./Output/8.png)
+![image](./Output/9.png)
 
-![image](https://github.com/user-attachments/assets/53209499-7331-471c-9061-18d3ffe3b41d)
+![image](./Output/10.png)
 
 
 

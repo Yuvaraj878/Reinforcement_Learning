@@ -84,13 +84,13 @@ def mc_control(env,
 
 ## OUTPUT:
 
-### NAME : Thiyagarajan A
-### REG NO : 212222240110
+### NAME : Yuvaraj S
+### REG NO : 212222240119
 
 ### Output
-![51](https://github.com/user-attachments/assets/f5eac9bb-9c60-45f0-9966-c16b5297c15a)
+![51](./Output/1.png)
 
-![52](https://github.com/user-attachments/assets/6e900223-7a2f-4224-b766-1b168aa29557)
+![52](./Output/2.png)
 
 
 

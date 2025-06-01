@@ -52,16 +52,16 @@ def value_iteration(P, gamma=1.0, theta=1e-10):
 
 ## OUTPUT:
 ### optimal policy
-![image](https://github.com/user-attachments/assets/856861c7-36f8-4960-ab28-82196bf4b1ab)
+![image](./Output/1.png)
 
 
 ### optimal value function
-![image](https://github.com/user-attachments/assets/dac203d0-c2c5-4ff2-81e6-929786220b70)
+![image](./Output/2.png)
 
 
 ### success rate for the optimal policy
 
-![image](https://github.com/user-attachments/assets/b88ef010-f1c6-4763-bb4b-8fd1c75f9eb0)
+![image](./Output/3.png)
 
 
 ## RESULT:

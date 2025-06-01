@@ -32,14 +32,14 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 ### Policy 1:
 
 
-![p1](https://github.com/user-attachments/assets/aadcc3dd-66c4-4568-bc41-34cff221e4bb)
+![p1](./Output/11.png)
 
 
-![ps1](https://github.com/user-attachments/assets/f4286eb9-2fda-4cf9-b0ee-28206c51728f)
+![ps1](./Output/2.png)
 
 
 
-![a1](https://github.com/user-attachments/assets/bd331fae-2aa5-4f39-8909-3ff3d40ad13d)
+![a1](./Output/3.png)
 
 
 
@@ -52,15 +52,15 @@ def policy_evaluation(pi, P, gamma=1.0, theta=1e-10):
 
 
 
-![ps2](https://github.com/user-attachments/assets/677c45a5-4cf5-4f1b-8dc1-5b6415b71b21)
+![ps2](./Output/4.png)
 
 
-![a2](https://github.com/user-attachments/assets/5f6d71a3-9f95-4e58-bcbc-c7fd4543ae11)
+![a2](./Output/5.png)
 
 
 
 
-![comp_v1_v2](https://github.com/user-attachments/assets/3b3620d3-00e5-497f-9fbf-8b827567b5d0)
+![comp_v1_v2](./Output/6.png)
 
 
 

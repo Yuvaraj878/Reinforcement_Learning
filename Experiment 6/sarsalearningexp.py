@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ys1ZltIOHzIbvhpcgYJky-M7_0kSes1I
 """
 
-pip install git+https://github.com/mimoralea/gym-walk#egg=gym-walk
+
 
 # Commented out IPython magic to ensure Python compatibility.
 import warnings ; warnings.filterwarnings('ignore')
